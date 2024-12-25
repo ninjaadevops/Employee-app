@@ -15,6 +15,3 @@ COPY . .
 
 # Expose the port your application runs on (e.g., 5000 for Flask apps)
 EXPOSE 5000
-
-# Command to run the Python application
-CMD ["python", "app.py"]
